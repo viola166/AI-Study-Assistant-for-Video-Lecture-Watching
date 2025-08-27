@@ -1,0 +1,259 @@
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  /*padding: 2rem;*/
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.main-layout {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100vh;
+  background-color: #f4f4f4;
+  padding: 1rem;
+  border-right: 1px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.05);
+  z-index: 1000; /* Ensure it's on top */
+  overflow-y: auto;
+}
+
+.video-sidebar h3 {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+.video-sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.video-sidebar li {
+  margin-bottom: 0.5rem;
+}
+
+.video-sidebar button {
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  width: 100%;
+  text-align: left;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  transition: background 0.2s;
+  height: 2.8rem; /* fixed height */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: relative;
+}
+
+.video-sidebar button:hover {
+  background-color: #e2e2e2;
+}
+
+.video-sidebar button:hover::after {
+  content: attr(data-fulltext);
+  position: absolute;
+  top: 50%;
+  left: 105%;
+  transform: translateY(-50%);
+  white-space: nowrap;
+  background: #333;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  z-index: 999;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+}
+
+.video-sidebar button.selected {
+  background-color: #d0d0d0;
+  font-weight: bold;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.main-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* The chat panel beside the video */
+.chat-panel {
+  position: absolute;
+  top: 50% - 180px;
+  left: calc(50% - 8% + 1% + 320px); /*50%: half of the page; 8%: video moved to the left; 1%: margin; 320px: half video width*/
+  width: 300px;
+  background-color: #f9f9f9;
+  border-left: 1px solid #ccc;
+  padding: 15px;
+  box-shadow: -2px 0 6px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+  text-align: start;
+  overflow-y: auto;
+}
+
+.chat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+/* Container for the video and overlay */
+.video-container {
+  width: 640px;
+  position: relative;
+  right: 8%;
+  z-index: 1;
+}
+
+/* Video styling */
+.video-player {
+  display: block;
+  width: 640px;
+}
+
+/* Overlay that appears on pause */
+.layout-overlay {
+  position: absolute;
+  width: 640px;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+/*Each clickable overlay box */
+.overlay-box {
+  position: absolute;
+  border: 2px solid red;
+  box-sizing: border-box;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+/* Highlight that appears on hover */
+.overlay-highlight {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.button-background {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+
+.Get-AI-Mentor {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #007bff;
+  color: white;
+  width: 70%;
+  height: 40%;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 50%;
+  margin: 2%;
+  transition: background-color 0.2s ease;
+}
+
+.Get-AI-Mentor:hover {
+  background-color: #0056b3;
+}
+
+.navigator-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 10;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+

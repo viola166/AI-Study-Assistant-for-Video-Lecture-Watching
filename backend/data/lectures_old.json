@@ -1,0 +1,97 @@
+[
+    {
+        "lecture": "Introduction to Artificial Intelligence 2021",
+        "videos": [
+            {
+                "id": 0,
+                "video_name": "1.1.1. AI Definitions - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/5e66dab8-029c-4f61-b575-8da407a86d5c/b3a233ab-0cde-41c3-960e-685d1554e5d0/112_ai_definitions.mp4"
+            },
+            {
+                "id": 1,
+                "video_name": "1.2.1. Alan Turing - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/e0fb9cab-e5bc-441d-86e8-7fceb38d8d7e/2dab96a8-a409-4af1-9d48-ae3249ef5c63/113_alan_turing.mp4"
+            },
+            {
+                "id": 2,
+                "video_name": "1.2.2. Newell and Simon: The Logic Theorist - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/744502aa-fd4d-4650-a2fb-a697ac61846c/b9fa6434-b5e8-4738-a196-a41a43744e4e/122_newell_simon.mp4"
+            },
+            {
+                "id": 3,
+                "video_name": "1.2.3. Early AI Landmarks - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/155e284d-61b1-43e7-bbf2-e0b948a45311/01a578cd-7fbb-4b0f-b63b-211c5a59a028/123_early_ai_landmarks.mp4"
+            },
+            {
+                "id": 4,
+                "video_name": "1.2.4. AI today - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/3e81927c-808b-4848-9f93-790145cd5548/f11c47a4-64af-4836-8495-346cdf0974b5/124_ai_today.mp4"
+            },
+            {
+                "id": 5,
+                "video_name": "1.2.5. Recent Achievements in AI - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/a06bcff3-9d34-46aa-8423-7e04cd601d3d/0c1a5834-7c45-4161-8aa6-3294807ea4d3/125_recent_achievements.mp4"
+            },
+            {
+                "id": 6,
+                "video_name": "1.3.2. The Termites Example - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/7b4a8c5a-b427-4a5d-a12a-97da3b964925/7f4134b2-b0c7-4f80-b0f7-5b976c084ebe/132_termites.mp4"
+            },
+            {
+                "id": 7,
+                "video_name": "1.3.3. Emergence - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/1e8e4eeb-8506-4324-a9da-b24613b38bdb/29132fcd-2317-4b45-945f-641d3fd5f590/133_emergence.mp4"
+            },
+            {
+                "id": 8,
+                "video_name": "1.3.4. Bird Flocking - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/ccf3e2da-7141-4d4f-8f88-123091ac5dde/598cf5ef-f5ea-4000-9570-747ba6c4b99a/134_bird_flocking.mp4"
+            },
+            {
+                "id": 9,
+                "video_name": "1.3.5. Eliza - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/caba00af-7cde-4926-8edb-428afb8c0177/17a99bfe-3fec-4f93-b80e-9f5372d08273/135_eliza.mp4"
+            },
+            {
+                "id": 10,
+                "video_name": "210 What is Logic Programming - Introduction? - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/b84a4d1b-47da-4253-8fe0-9ea0bb76ac19/ff3e964a-9ccf-4732-b650-88b733b4e217/210_introduction.mp4"
+            },
+            {
+                "id": 11,
+                "video_name": "2.3.1. Prolog Syntax - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/77d8a3b0-4bdf-422c-933f-a3ec20d20064/9a27ec95-0330-4719-9c53-3ec277efdc8a/231_prolog_syntax.mp4"
+            },
+            {
+                "id": 12,
+                "video_name": "2.5.1. Basic concepts: Variables and Backtracking - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/9346ea79-7a5c-4865-a870-527cd9badbd2/7e4bb363-0ef1-4f64-9b72-4c44116044dd/251_basic_concepts_variables.mp4"
+            },
+            {
+                "id": 13,
+                "video_name": "2.5.2. Basic concepts: Unification - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/9c9abb4b-0553-42d5-86bf-0c9540f254b8/8c4b8a03-ee8b-4635-990e-5196fdf69054/252_basic_concepts_unification.mp4"
+            },
+            {
+                "id": 14,
+                "video_name": "2.5.2. Basic concepts: Prolog Proof Procedure - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/df18a329-8827-47d9-a2f0-514db18fb3a9/ee0afc69-8ad6-427e-9c7a-26a6eaf04cfc/253_basic_concepts_proof_procedure.mp4"
+            },
+            {
+                "id": 15,
+                "video_name": "3.3.1. Knowledge Representation - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/297fba5f-9699-417f-b449-2ffe16574b0f/b4093717-f59e-4928-97e7-111bbb06d9a0/331_knowledge_representation.mp4"
+            },
+            {
+                "id": 16,
+                "video_name": "3.3.3. KR and Logic - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/deeef34d-b511-42d7-b244-cb72edb7e063/788a553e-15b8-4a7b-9487-421500184ce2/333_kr_and_logic.mp4"
+            },
+            {
+                "id": 17,
+                "video_name": "3.3.4. The Monkey Banana Problem - Introduction to Artificial Intelligence and Logic Programming (Lecture   Practice) (CS-BP-AI) - SS 2020 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/bf1e4065-60b7-4c81-8d5e-45b6ab8999b2/56e6c33a-7d9e-42df-a310-4fad7178f574/334_monkey_banana_problem.mp4"
+            }
+        ]
+    }
+]

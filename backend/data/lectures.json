@@ -1,0 +1,62 @@
+[
+    {
+        "lecture": "Introduction to Artificial Intelligence",
+        "videos": [
+            {
+                "id": 0,
+                "video_name": "Week 01-01: Course Overview - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/85285251-f871-4434-977b-88da99317c31/cc73896f-610b-44bb-8705-2072280d53f5/iai25-01-01-course-overview.mp4"
+            },
+            {
+                "id": 1,
+                "video_name": "Week 01-02: Definitions and History of AI - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/8b587d58-8c7d-400a-80ad-493297714014/6a10730f-0223-4951-8640-5ad287d12ab6/iai25-01-02-definitions-history.mp4"
+            },
+            {
+                "id": 2,
+                "video_name": "Themen: Machine Learning Introduction, Supervised Learning: kNN, ID3 - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/5b712762-f343-4b54-bc6f-a25f96e83d14/fbebd150-2be7-4a26-ac88-e0bdf4f32070/presentation-b5d8bf44-b62e-4369-8bd0-4e669d110f26.mp4"
+            },
+            {
+                "id": 3,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 05.05.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/70854446-bdc3-49e6-b811-05ed73204bfc/4a33ab57-3ccb-444a-936c-d5638fc6fcab/presentation-f68b9f1d-b0d5-4047-be35-40f05287fd3d.mp4"
+            },
+            {
+                "id": 4,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 12.05.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/dc873595-7124-481b-aae4-0879af6b04fc/c5166d6f-4fcd-4d24-afb1-3b873969b0db/presentation-18428a89-4ed4-42bd-8cdf-a4eb9c734533.mp4"
+            },
+            {
+                "id": 5,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 19.05.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/6c79244f-85af-4443-92cd-db86e1b4cd61/1946d90d-0acc-4827-86c0-0a395f190818/presentation-6d41b4b0-7080-4cd2-8753-fcf243809865.mp4"
+            },
+            {
+                "id": 6,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 02.06.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/fbaf6f7e-e707-4b34-820e-65d62c70a548/1e13cf1b-6089-4d60-a120-def5249756f5/presentation-0f093e5f-9db2-47e0-b9ad-d8f33e1be190.mp4"
+            },
+            {
+                "id": 7,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 16.06.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/2bc44608-96f4-4850-983e-c824486c531a/1a9103c8-d393-4304-93ad-ea7b2602480c/presentation-37238174-d9dd-4465-8b2f-96c121150821.mp4"
+            },
+            {
+                "id": 8,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 23.06.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/d6cdfd25-83cf-4255-9f2d-08856ea948bb/0e939635-d535-4279-aae1-7db637646855/presentation-96b5dde9-1584-43c5-a434-2b9eca74ecce.mp4"
+            },
+            {
+                "id": 9,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 30.06.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/a07b44c7-4e07-449c-9cf5-18fff6fe9fb5/dcfa1373-5b48-4b08-9676-a56090643264/presentation-51e11c10-aa23-4a0c-a0c2-35d8234bd082.mp4"
+            },
+            {
+                "id": 10,
+                "video_name": "Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) (Montag, 07.07.2025 14:00 - 18:00, Ort: 93/E31) - Introduction to Artificial Intelligence (CS-BP-AI, PO19/20; CS24-BP-CAS, PO24) - SoSe 2025 | Opencast",
+                "path": "https://video4.virtuos.uni-osnabrueck.de/static/mh_default_org/engage-player/b449669a-ca5a-4881-b444-8ab50f86764c/2958a54a-44d8-4f60-a1e0-b7b7cd2012cc/presentation-02ca12d8-5fb4-4122-8303-9064363439a6.mp4"
+            }
+        ]
+    }
+]
